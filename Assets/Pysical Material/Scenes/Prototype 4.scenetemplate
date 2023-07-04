@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Prototype 4
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: a4b96ad7a65484fd4a83cb97540eee50, type: 3}
+  templateName: The ball
+  description: The ball need  to claim the powerUp. and then u will have a straight
+    can clear the ememy
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: 41680dad0f0243748b4e228f49a2e3c4, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: e04bfb609c5cfb745a0157840ad48813, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: a16b7b85a356b7d469067849a165dcff, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 13400000, guid: 1e18ee1ba75f639479a097666e602956, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 6907776982202211483, guid: d28dad36365ae4d41941cd5bdba743f6, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 86cb957541c7c8542a6306ffb82e6833, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: cd97a4f0bfba00a46a4a29156f2a23bd, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 100000, guid: 8878a37eb67ddac4ead51890a31d6a18, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 1301643505922104, guid: 961be46ca9a355943ae3f65c47741bb0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 610417642452160544, guid: 3fd5555088952419ebf0eb82e9096fa5, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 5831814716918331113, guid: 363a8f737719f4d2eafb35f885f3706f, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 7789f4efbb0f45c4780925243375a18e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 100000, guid: f53a62680c316ef41be1a025e7add452, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: e68f77e240a7f8643b5cc4253dc37516, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 100000, guid: c8e9a715daac24048a124a1f8e3487fa, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: bbc54c0e722a346408cd09eef6dc0cd6, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 100004, guid: 1340630fb7a3267499177be33f281f05, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 65bf252a1d0243b40a63ee08ad703289, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 7bab9ac1487e10c40b9ed77d4c551e04, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 5632852145174921941, guid: 1fd0c0b181e0d31478df2cf9dbf1ed76, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 9b654102de6ae3749a41941671a2cbe7, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 4c97b24d72ebade4d98acaf3b75c90ee, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8818918281965631768, guid: 95547cf4eaf44a644aaa4c8dfac4d152, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
